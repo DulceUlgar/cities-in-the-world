@@ -18,4 +18,4 @@ describe('CitiesComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-});
+})
